@@ -1,7 +1,9 @@
 {
-    "editor.quickSuggestions": {
-        "other": "on",
-        "comments": "off",
-        "strings": "off"
+    "code-runner.showRunIconInEditorTitleMenu": true,
+    "code-runner.runInTerminal": false,
+    "code-runner.saveFileBeforeRun": true,
+    "code-runner.executorMap": {
+        "javascript": "node",
+        "html": "node"
     }
 }

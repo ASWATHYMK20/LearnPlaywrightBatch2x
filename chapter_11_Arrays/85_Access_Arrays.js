@@ -12,5 +12,3 @@ console.log(statuses.at(-3));
 // Modify
 statuses[1] = "blocked";
 console.log(statuses);   // [ 'pass', 'blocked', 'skip' ]
-
-
