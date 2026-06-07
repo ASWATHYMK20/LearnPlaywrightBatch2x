@@ -40,9 +40,21 @@ A hands-on JavaScript fundamentals course building up to Playwright automation. 
 | `15_let_scope.js` | Block scope with `let` |
 | `16_Hoisting.js` | Hoisting behavior with `var` and function declarations |
 | `17_hoisting_fn.js` | Function hoisting examples |
+| `18_let_hoisting.js` | `let` hoisting and temporal dead zone |
+| `19_let_hoisting_block.js` | `let` hoisting in block scope |
+| `20_let_const.js` | `let` vs `const` comparison |
+| `21_Jr_QA.js` | Junior QA interview questions on JS concepts |
 
 ### Chapter 5: Literals
-_Empty_
+| File | Topic |
+|------|-------|
+| `22_Literal.js` | Literal basics |
+| `23_null_undefined.js` | `null` vs `undefined` |
+| `24_null.js` | `null` value deep dive |
+| `25_Literal_All.js` | All literal types overview |
+| `26_Literal_Number_all.js` | Number literals |
+| `27_String.js` | String literals |
+| `28_Template_Literal.js` | Template literals |
 
 ### Chapter 6: Operator
 _Empty_
@@ -87,6 +99,21 @@ _Empty_
 | `101_Template_literal.js` | Template literals |
 | `102_Fn_Expression.js` | Function expressions |
 | `103_Arraow_Fn.js` | Arrow functions |
+| `104_Arrow_Fn_REAL.js` | Real-world arrow function examples |
+| `105_IIFE.js` | Immediately Invoked Function Expressions |
+| `106_Default_Param_Fn.js` | Default parameters in functions |
+| `107_IQ.js` | Interview questions — functions |
+| `108_Rest_Param_Fn.js` | Rest parameters |
+| `109_IQ.js` | Interview questions — rest params |
+| `110_Spead_IQ.JS` | Spread operator interview questions |
+| `111_Scope_Fn.js` | Function scope deep dive |
+| `112_IQ.js` | Interview questions — scope |
+| `113_Closure.js` | Closure basics |
+| `114_Closure.js` | Closure examples |
+| `115_API_REAL_Closure.js` | Real-world closure use case (API) |
+| `116_Higher_Order_Fn.js` | Higher-order functions |
+| `116a_Higher_Order_Fn_Practice.js` | Higher-order function practice |
+| `117_Pure_Fn.js` | Pure functions |
 
 ## Running Examples
 
