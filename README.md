@@ -115,6 +115,24 @@ _Empty_
 | `116a_Higher_Order_Fn_Practice.js` | Higher-order function practice |
 | `117_Pure_Fn.js` | Pure functions |
 
+### Chapter 13: Strings
+| File | Topic |
+|------|-------|
+| `118_Strings.js` | String basics |
+| `119_String_Properties.js` | String properties and methods |
+| `120_Search_Check_Str.js` | String search and check operations |
+
+### Chapter 15: 2D Arrays
+| File | Topic |
+|------|-------|
+| `138_2D_Array.js` | 2D array basics |
+| `139_2d.js` | 2D array operations |
+| `140_REAL.js` | Practical 2D array example |
+| `141_2d_Array_Fn.js` | 2D array functions |
+| `142a_Print reverse.js` | Print reverse pattern |
+| `142b_star_triangle.js` | Star triangle pattern |
+| `142_IQ_Right_Pattern_Py.js` | Right angle pattern interview question |
+
 ## Running Examples
 
 ```bash
@@ -124,4 +142,6 @@ node "chapter_03_Identifier_Literals/06_Identifier_Rules.js"
 node "chapter_04_javascript_Concepts/09_var_let_const.js"
 node "chapter_11_Arrays/83_Arrays.js"
 node "chapter_12_Functions/96_Functions.js"
+node "chapter_13_Strings/118_Strings.js"
+node "chapter_15_2D_Array.js/138_2D_Array.js"
 ```
