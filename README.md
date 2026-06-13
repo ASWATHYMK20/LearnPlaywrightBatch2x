@@ -121,6 +121,10 @@ _Empty_
 | `118_Strings.js` | String basics |
 | `119_String_Properties.js` | String properties and methods |
 | `120_Search_Check_Str.js` | String search and check operations |
+| `121_Substring.js` | Substring, slice, includes, at methods |
+| `122_Transform_Str.js` | Case conversion, trim, replace, split, join |
+| `123.SC.js` | String conversion (toString, Number, parseInt, parseFloat) |
+| `javascript_stringcheatsheet.md` | JavaScript String Methods cheat sheet |
 
 ### Chapter 15: 2D Arrays
 | File | Topic |
@@ -143,5 +147,8 @@ node "chapter_04_javascript_Concepts/09_var_let_const.js"
 node "chapter_11_Arrays/83_Arrays.js"
 node "chapter_12_Functions/96_Functions.js"
 node "chapter_13_Strings/118_Strings.js"
+node "chapter_13_Strings/121_Substring.js"
+node "chapter_13_Strings/122_Transform_Str.js"
+node "chapter_13_Strings/123.SC.js"
 node "chapter_15_2D_Array.js/138_2D_Array.js"
 ```

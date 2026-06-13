@@ -5,5 +5,11 @@
     "code-runner.executorMap": {
         "javascript": "node",
         "html": "node"
+    },
+    "editor.tabCompletion": "on",
+    "editor.quickSuggestions": {
+        "other": "offWhenInlineCompletions",
+        "comments": "off",
+        "strings": "off"
     }
 }

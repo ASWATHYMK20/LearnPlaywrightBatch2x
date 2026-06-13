@@ -20,3 +20,19 @@ for (i = 1; i <= n; i++) {
     console.log(row)
 
 }
+
+
+
+/* The two formulas to remember
+
+For a centered pyramid:
+
+Row(i)	  Spaces	    Stars
+1	    	  2            1
+2	   	      1            3
+3	          0            5
+
+So the key formulas are:
+
+spaces = n - i
+stars = 2 * i - 1 */
