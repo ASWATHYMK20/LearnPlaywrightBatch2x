@@ -44,6 +44,7 @@ A hands-on JavaScript fundamentals course building up to Playwright automation. 
 | `19_let_hoisting_block.js` | `let` hoisting in block scope |
 | `20_let_const.js` | `let` vs `const` comparison |
 | `21_Jr_QA.js` | Junior QA interview questions on JS concepts |
+| `GRADE.js` | Grade evaluation with if-else |
 
 ### Chapter 5: Literals
 | File | Topic |
@@ -55,9 +56,18 @@ A hands-on JavaScript fundamentals course building up to Playwright automation. 
 | `26_Literal_Number_all.js` | Number literals |
 | `27_String.js` | String literals |
 | `28_Template_Literal.js` | Template literals |
+| `29_Backtick_single_double.js` | Backtick, single & double quotes |
 
 ### Chapter 6: Operator
-_Empty_
+| File | Topic |
+|------|-------|
+| `30_Operator.js` | Operator basics |
+| `31_Arithmetic_OP.js` | Arithmetic operators |
+| `32_Modulus_OP.js` | Modulus operator |
+| `33_Expo_OP.js` | Exponentiation operator |
+| `34_IQ.js` | Interview questions — operators |
+| `35_Comparison_OP.js` | Comparison operators |
+| `36_Comparison_Strict_loose.js` | Strict vs loose comparison |
 
 ### Chapter 7: If-Else
 _Empty_
@@ -126,6 +136,25 @@ _Empty_
 | `123.SC.js` | String conversion (toString, Number, parseInt, parseFloat) |
 | `javascript_stringcheatsheet.md` | JavaScript String Methods cheat sheet |
 
+### Chapter 14: Objects
+| File | Topic |
+|------|-------|
+| `124_Objects.js` | Object basics |
+| `125_Objects2.js` | Object operations |
+| `126_Objects_Creation.js` | Object creation patterns |
+| `127_Objects_REAL.js` | Real-world object examples |
+| `128_Primitive_Ref.js` | Primitive vs reference types |
+| `129_Ob_Examples.js` | Object examples |
+| `130_IQ.js` | Interview questions — objects |
+| `131_Object_Fn.js` | Object functions |
+| `132_Obj_Decon.js` | Object destructuring |
+| `133_Spead.js` | Spread operator with objects |
+| `133_SpeadwithNotes.js` | Spread operator with notes |
+| `134_Objects_GET_SWT_Method.js` | Object get/set methods |
+| `135_IQ.js` | Interview questions — objects |
+| `136_Obj_REAL.js` | Real-world object use case |
+| `137_Let_const_obj.js` | let/const with objects |
+
 ### Chapter 15: 2D Arrays
 | File | Topic |
 |------|-------|
@@ -136,6 +165,17 @@ _Empty_
 | `142a_Print reverse.js` | Print reverse pattern |
 | `142b_star_triangle.js` | Star triangle pattern |
 | `142_IQ_Right_Pattern_Py.js` | Right angle pattern interview question |
+
+### Chapter 16: Callback
+| File | Topic |
+|------|-------|
+| `143.Callback.js` | Callback basics |
+| `144_CB.js` | Callback examples |
+| `145_CB_Fn.js` | Callback functions |
+| `146_PW_CB.js` | Playwright-style callbacks |
+| `147_JS_CB.js` | JavaScript callbacks |
+| `148_Sync_CB.js` | Synchronous callbacks |
+| `149_Async_CB.js` | Asynchronous callbacks |
 
 ## Running Examples
 
@@ -150,5 +190,7 @@ node "chapter_13_Strings/118_Strings.js"
 node "chapter_13_Strings/121_Substring.js"
 node "chapter_13_Strings/122_Transform_Str.js"
 node "chapter_13_Strings/123.SC.js"
+node "chapter_14_Objects/124_Objects.js"
 node "chapter_15_2D_Array.js/138_2D_Array.js"
+node "chapter_16_Callback/143.Callback.js"
 ```

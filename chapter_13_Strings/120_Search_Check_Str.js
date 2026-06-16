@@ -33,5 +33,5 @@ console.log(url.search(/vwo/));
 /* | Method      | Searches for    | Supports Regex? | Not Found |
    | ----------- | --------------- | --------------- | --------- |
    | indexOf() | String only       | ❌ No           | -1     |
-   | search()` | String or Regex   | ✅ Yes          | -1      | */
+   | search() | String or Regex   | ✅ Yes          | -1      | */
 
