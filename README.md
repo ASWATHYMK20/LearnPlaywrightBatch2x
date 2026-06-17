@@ -176,6 +176,16 @@ _Empty_
 | `147_JS_CB.js` | JavaScript callbacks |
 | `148_Sync_CB.js` | Synchronous callbacks |
 | `149_Async_CB.js` | Asynchronous callbacks |
+| `150_CB_Hell.js` | Callback hell introduction |
+| `151_CB_Hell_20_Steps.js` | Callback hell — 20-step example |
+| `152_CB_Parameter.js` | Callback parameters |
+| `153_CB_Return.js` | Returning values from callbacks |
+
+### Chapter 17: Promise
+| File | Topic |
+|------|-------|
+| `154_Promise.js` | Promise basics |
+| `155_Promise_REAL_API.js` | Real-world promise API example |
 
 ## Running Examples
 
@@ -193,4 +203,5 @@ node "chapter_13_Strings/123.SC.js"
 node "chapter_14_Objects/124_Objects.js"
 node "chapter_15_2D_Array.js/138_2D_Array.js"
 node "chapter_16_Callback/143.Callback.js"
+node "chapter_17_Promise/154_Promise.js"
 ```
