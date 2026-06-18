@@ -186,6 +186,8 @@ _Empty_
 |------|-------|
 | `154_Promise.js` | Promise basics |
 | `155_Promise_REAL_API.js` | Real-world promise API example |
+| `156_Promise_REAL_API_PART2.js` | Real-world promise API part 2 |
+| `157_Finally.js` | Promise finally method |
 
 ## Running Examples
 

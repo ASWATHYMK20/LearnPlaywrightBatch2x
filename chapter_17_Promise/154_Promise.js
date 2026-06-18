@@ -8,3 +8,7 @@ let order = new Promise(function (resolve, reject) {
     }
 })
 console.log(order);
+
+
+// Output
+// Promise { 'Pizza is delivered.Food is ready.' }
