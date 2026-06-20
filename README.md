@@ -68,6 +68,11 @@ A hands-on JavaScript fundamentals course building up to Playwright automation. 
 | `34_IQ.js` | Interview questions — operators |
 | `35_Comparison_OP.js` | Comparison operators |
 | `36_Comparison_Strict_loose.js` | Strict vs loose comparison |
+| `37_IQ_Loose_Strct.js` | Interview questions — loose vs strict |
+| `38_Confusing_Comparison.js` | Confusing comparison examples |
+| `39_Logial.Op.js` | Logical operators |
+| `40_String_Con_OP.js` | String concatenation operator |
+| `41_Ternary_Op.js` | Ternary operator |
 
 ### Chapter 7: If-Else
 _Empty_
@@ -188,6 +193,9 @@ _Empty_
 | `155_Promise_REAL_API.js` | Real-world promise API example |
 | `156_Promise_REAL_API_PART2.js` | Real-world promise API part 2 |
 | `157_Finally.js` | Promise finally method |
+| `158_Call_Py_Problem.js` | Callback-to-promise conversion problem |
+| `159_Promise_ALL.js` | Promise.all usage |
+| `160_Promise_IQ.js` | Promise interview questions |
 
 ## Running Examples
 
