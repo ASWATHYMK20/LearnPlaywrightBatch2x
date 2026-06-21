@@ -73,6 +73,8 @@ A hands-on JavaScript fundamentals course building up to Playwright automation. 
 | `39_Logial.Op.js` | Logical operators |
 | `40_String_Con_OP.js` | String concatenation operator |
 | `41_Ternary_Op.js` | Ternary operator |
+| `42_Type_Op.js` | Type operators |
+| `43_Incre_Decre_Op.js` | Increment / Decrement operators |
 
 ### Chapter 7: If-Else
 _Empty_

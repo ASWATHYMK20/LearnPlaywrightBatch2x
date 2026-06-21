@@ -31,3 +31,36 @@ let responseTime = 850;
 let sla = 1000;
 let slaStatus = responseTime <= sla ? "Within SLA ✅" : "SLA breached ❌";
 console.log(`Response:${responseTime}ms-${slaStatus}`);
+
+//  Nested Ternary
+
+// Multiple Condition
+
+let age = 26;
+let is_pramod_goa = age > 26 ? "Yes, he will go" : "else he will not go"; "else he will not go";
+console.log(is_pramod_goa);
+
+let age_pramod = 45;
+let is_pramod_d = age_pramod > 18 ? (age_pramod > 26 ? "Drink" : "No Drink") : "No GOA";
+console.log(is_pramod_d);
+
+/// --------------------
+
+let statusCode = 400;
+let category =
+    statusCode < 300 ? "Success" :
+        statusCode < 400 ? "Redirect" :
+            statusCode < 500 ? "Client Error" : "Server Error";
+console.log(`Status ${statusCode}:${category}`);
+
+// ---- 
+
+let temp = 35;
+let feel = (temp >= 40) ? "Very Hot" :
+    (temp >= 30) ? "Hot" :
+        (temp >= 20) ? "Warm" :
+            (temp >= 10) ? "Cool" : "Cold";
+console.log("Temparature:", temp, "| Feel:", feel);
+
+
+
