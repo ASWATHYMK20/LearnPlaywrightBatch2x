@@ -75,6 +75,7 @@ A hands-on JavaScript fundamentals course building up to Playwright automation. 
 | `41_Ternary_Op.js` | Ternary operator |
 | `42_Type_Op.js` | Type operators |
 | `43_Incre_Decre_Op.js` | Increment / Decrement operators |
+| `44_Null_Op.js` | Nullish coalescing operator |
 
 ### Chapter 7: If-Else
 _Empty_
@@ -199,6 +200,12 @@ _Empty_
 | `159_Promise_ALL.js` | Promise.all usage |
 | `160_Promise_IQ.js` | Promise interview questions |
 
+### Chapter 18: Async Await
+| File | Topic |
+|------|-------|
+| `161_Async.js` | Async/Await basics |
+| `162_Async_P2.js` | Async/Await part 2 |
+
 ## Running Examples
 
 ```bash
@@ -216,4 +223,5 @@ node "chapter_14_Objects/124_Objects.js"
 node "chapter_15_2D_Array.js/138_2D_Array.js"
 node "chapter_16_Callback/143.Callback.js"
 node "chapter_17_Promise/154_Promise.js"
+node "chapter_18_Async_Await/161_Async.js"
 ```
