@@ -1,0 +1,121 @@
+function openBrowser() {
+    return new Promise(function (resolve) {
+        resolve("Browser opened!");
+    });
+}
+function goToLogin() {
+    return new Promise(function (resolve) {
+        resolve("Login page loaded");
+    });
+}
+function enterCredentials() {
+    return new Promise(function (resolve) {
+        resolve("Credentials entered");
+    });
+}
+
+function clickLogin() {
+    return new Promise(function (resolve) {
+        resolve("Logged in successfully");
+    });
+}
+
+
+
+// openBrowser()
+//     .then(function (msg) {
+//         console.log("Step 1", msg);
+//         return goToLogin();
+//     }).then(function (msg) {
+//         console.log("Step 2 :", msg);
+//         return enterCredentials();
+//     }).then(function (msg) {
+//         console.log("Step 3 :", msg);
+//         return clickLogin();
+//     }).then(function (msg) {
+//         console.log("Step 4 :", msg);
+//     }).catch(function (error) {
+//         console.log("Error:", error);
+//     }).finally(function () {
+//         console.log("Done execution!");
+//     });
+
+
+
+async function runTheE2E() {
+    let msg1 = await openBrowser();
+    console.log("Step 1:", msg1);
+
+    let msg2 = await goToLogin();
+    console.log("Step 2:", msg2);
+
+    let msg3 = await enterCredentials();
+    console.log("Step 3:", msg3);
+
+    let msg4 = await clickLogin();
+    console.log("Step 4:", msg4);
+}
+runTheE2E();
+
+
+
+
+// Promise:
+// Represents a future result.
+
+// async:
+// Marks a function as asynchronous.
+// Allows use of await.
+
+// await:
+// Waits until a Promise completes.
+
+// Syntax:
+
+async function test() {
+    let result = await somePromise();
+}
+
+
+// Promise:
+// Represents a future result.
+
+// async:
+// Marks a function as asynchronous.
+// Allows use of await.
+
+// await:
+// Waits until a Promise completes.
+
+// Syntax:
+
+async function test() {
+    let result = await somePromise();
+}
+
+
+// Learning Notes(chatgpt)
+
+// Remember:
+// async = permission to use await
+// await = wait for Promise to finish
+
+// Common in automation:
+// Browser launch
+// Page navigation
+// API calls
+// Database calls
+// File operations
+// One-line Revision Trick
+// Promise = "I will give result later."
+
+// async = "This function works with Promises."
+
+// await = "Stop and wait for Promise to finish."
+
+
+
+
+
+
+

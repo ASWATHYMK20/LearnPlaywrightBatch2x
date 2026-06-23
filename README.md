@@ -205,6 +205,9 @@ _Empty_
 |------|-------|
 | `161_Async.js` | Async/Await basics |
 | `162_Async_P2.js` | Async/Await part 2 |
+| `163_PyODom.js` | Playwright-style DOM automation with async/await |
+| `163a_Notes` | Learning notes — Promise, async, await concepts |
+| `164_Async_Ex.js` | Async/Await examples |
 
 ## Running Examples
 
