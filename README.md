@@ -206,8 +206,12 @@ _Empty_
 | `161_Async.js` | Async/Await basics |
 | `162_Async_P2.js` | Async/Await part 2 |
 | `163_PyODom.js` | Playwright-style DOM automation with async/await |
-| `163a_Notes` | Learning notes — Promise, async, await concepts |
+| `163a_Notes.js` | Learning notes — Promise, async, await concepts |
 | `164_Async_Ex.js` | Async/Await examples |
+| `165_AA_Parallel.js` | Parallel async/await with Promise.all |
+| `165_AA_seq.js` | Sequential async/await execution |
+| `166_IQ.js` | Async/Await interview questions |
+| `167_ACLogin.js` | Playwright login test with async/await |
 
 ## Running Examples
 
