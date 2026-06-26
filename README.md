@@ -81,7 +81,13 @@ A hands-on JavaScript fundamentals course building up to Playwright automation. 
 | `47_Advance_ID.js` | Advanced increment/decrement examples |
 
 ### Chapter 7: If-Else
-_Empty_
+| File | Topic |
+|------|-------|
+| `48_IF_ELSE.js` | If-else basics — age check for voting eligibility |
+| `56_IQ_EVEN_ODD.js` | Even/odd check with modulo operator |
+| `57_Grade_Calc.js` | Grade calculation using if-else-if ladder (score 85) |
+| `Practice_grade.js` | Grade calculation practice (score 70) |
+| `PracticeOddEven.js` | Even/odd check practice (number 28) |
 
 ### Chapter 8: Switch Statement
 _Empty_
