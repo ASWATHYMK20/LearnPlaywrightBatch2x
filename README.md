@@ -84,8 +84,16 @@ A hands-on JavaScript fundamentals course building up to Playwright automation. 
 | File | Topic |
 |------|-------|
 | `48_IF_ELSE.js` | If-else basics — age check for voting eligibility |
+| `49_If_else_else.js` | If-else-if ladder — grade evaluation (score 18) |
+| `50_REAL_IF_ELSE.js` | Real-world if-else — adult age check |
+| `51_API_IF_ELSE.js` | API status code check with if-else |
+| `52_IQ_IF_ELSE.js` | Truthy/falsy values in if statements |
+| `53_IF_ELSE_real.js` | Login check with logical operators |
+| `54_IQ.js` | Single-line if without braces example |
+| `55_IE.js` | Minimal if statement placeholder |
 | `56_IQ_EVEN_ODD.js` | Even/odd check with modulo operator |
 | `57_Grade_Calc.js` | Grade calculation using if-else-if ladder (score 85) |
+| `58_LEAP_YEAR.js` | Leap year check |
 | `Practice_grade.js` | Grade calculation practice (score 70) |
 | `PracticeOddEven.js` | Even/odd check practice (number 28) |
 
