@@ -70,12 +70,15 @@ A hands-on JavaScript fundamentals course building up to Playwright automation. 
 | `36_Comparison_Strict_loose.js` | Strict vs loose comparison |
 | `37_IQ_Loose_Strct.js` | Interview questions — loose vs strict |
 | `38_Confusing_Comparison.js` | Confusing comparison examples |
-| `39_Logial.Op.js` | Logical operators |
+| `39_Logical.Op.js` | Logical operators |
 | `40_String_Con_OP.js` | String concatenation operator |
 | `41_Ternary_Op.js` | Ternary operator |
 | `42_Type_Op.js` | Type operators |
 | `43_Incre_Decre_Op.js` | Increment / Decrement operators |
 | `44_Null_Op.js` | Nullish coalescing operator |
+| `45_Post_Increment.js` | Post-increment operator |
+| `46_IQ_INCREMENT_D.js` | Increment/decrement interview questions |
+| `47_Advance_ID.js` | Advanced increment/decrement examples |
 
 ### Chapter 7: If-Else
 _Empty_
