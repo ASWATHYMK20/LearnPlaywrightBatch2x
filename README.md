@@ -98,7 +98,12 @@ A hands-on JavaScript fundamentals course building up to Playwright automation. 
 | `PracticeOddEven.js` | Even/odd check practice (number 28) |
 
 ### Chapter 8: Switch Statement
-_Empty_
+| File | Topic |
+|------|-------|
+| `59_Switch.js` | Switch statement basics |
+| `60_No_Break.js` | Switch without break (fall-through) |
+| `61_Default.js` | Switch with default case |
+| `62_REAL_TIME_EXAMPLE.js` | Real-world switch statement example |
 
 ### Chapter 9: User Input
 _Empty_
