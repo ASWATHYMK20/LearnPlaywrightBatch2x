@@ -104,9 +104,18 @@ A hands-on JavaScript fundamentals course building up to Playwright automation. 
 | `60_No_Break.js` | Switch without break (fall-through) |
 | `61_Default.js` | Switch with default case |
 | `62_REAL_TIME_EXAMPLE.js` | Real-world switch statement example |
+| `63_Switch_Group.js` | Grouping cases in switch |
+| `64_IQ.js` | Interview questions — switch |
+| `65_IQ2.js` | Interview questions — switch part 2 |
+| `66_IQ3.js` | Interview questions — switch part 3 |
+| `67_IQ4.js` | Interview questions — switch part 4 |
 
 ### Chapter 9: User Input
-_Empty_
+| File | Topic |
+|------|-------|
+| `68_User_Input.js` | User input basics |
+| `69_Node_readline.js` | Node.js readline module |
+| `70_prompt_sync.js` | prompt-sync for user input |
 
 ### Chapter 10: Loops
 _Empty_
