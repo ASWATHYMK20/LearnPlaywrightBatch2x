@@ -244,6 +244,11 @@ _Empty_
 | `166_IQ.js` | Async/Await interview questions |
 | `167_ACLogin.js` | Playwright login test with async/await |
 
+### Chapter 19: Playwright Basics
+| File | Topic |
+|------|-------|
+| `package.json` | Playwright project setup with dependencies |
+
 ## Running Examples
 
 ```bash
