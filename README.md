@@ -248,6 +248,30 @@ _Empty_
 | File | Topic |
 |------|-------|
 | `package.json` | Playwright project setup with dependencies |
+| `ttacart.spec.ts` | Playwright test spec for automation |
+
+### Chapter 20: Export & Import
+| File | Topic |
+|------|-------|
+| `01_EXPORT_IMPORT/168_EXPORT_IMPORT.js` | Export/import basics |
+| `01_EXPORT_IMPORT/169_Utils.js` | Utility module export |
+| `01_EXPORT_IMPORT/170_Logger.js` | Logger module export |
+| `01_EXPORT_IMPORT/ExplainDefault.md` | Default export explanation |
+| `logger.js` | External logger utility |
+| `testutils.js` | External test utilities |
+| `utils.js` | External utility functions |
+
+### Chapter 21: Classes & Objects
+| File | Topic |
+|------|-------|
+| `171_Class_Object.js` | Class and object basics |
+| `172_Class_Object2.js` | Class and objects part 2 |
+| `173_Car.js` | Car class example |
+| `174_REAL_Browser.js` | Real-world browser class example |
+| `175_IQ.js` | Class/object interview questions |
+| `176_Private_Public.js` | Private and public members |
+| `177_Statis.js` | Static members |
+| `178_Statis.js` | Static members part 2 |
 
 ## Running Examples
 
