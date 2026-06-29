@@ -273,6 +273,40 @@ _Empty_
 | `177_Statis.js` | Static members |
 | `178_Statis.js` | Static members part 2 |
 
+### Chapter 22: Encapsulation
+| File | Topic |
+|------|-------|
+| `179_Ecap.js` | Encapsulation basics — private fields (`#balance`), `deposit()`, `getBalance()` |
+| `180_REAK_EXAMPLE.js` | Real-world encapsulation — `Person` class with private children, getter/setter methods |
+| `181_Ecap_Car.js` | `Car` class with private `#engine` field, getter/setter methods |
+| `182_ECap_Bank.js` | Bank (ICICI) class with private `#balance`, controlled access with role-based `setBalance()` |
+
+### Chapter 23: Inheritance
+| File | Topic |
+|------|-------|
+| `183_Single_Inheritance.js` | Single inheritance — `BasePage` → `LoginPage` (`extends`, `super()`) |
+| `184_SI_Example.js` | Single inheritance example — `Animal` → `Dog` (`super()` in constructor) |
+| `185_Single_Inheritance_Con.js` | Single inheritance with constructor — `BaseTest` → `APITest` (method override) |
+| `186_TQ.js` | Test question — using `super.setup()` / `super.teardown()` to call parent methods |
+| `187_IQ2.js` | Interview question 2 — `TestCase` → `UnitTest`, `APITest`, `E2ETest` (polymorphic override) |
+| `188_REAL_PageObject_Model.js` | Real-world POM example — `BasePage` → `LoginPage`, `DashboardPage`, `CartPage` |
+| `189_Multiple_Inheritance.js` | Multiple inheritance (demonstrates JS does not support it) |
+| `190_Multi_level_Inheritance.js` | Multilevel inheritance — `BasePage` → `AuthPage` → `AdminPage` |
+| `191_Hierarchical_Inheritance.js` | Hierarchical inheritance — `Father` → `Son1`, `Son2` |
+
+### Chapter 24: Polymorphism
+| File | Topic |
+|------|-------|
+| `192_Method_Overriding.js` | Method overriding — `BaseTest.setup()` overridden by `APIPage.setup()` |
+
+### Chapter 25: OOP Interview Questions
+| File | Topic |
+|------|-------|
+| `EX1.js` | Exercise 1 — `Bug` class with `title`, `severity`, and `display()` method |
+| `EX2.js` | Exercise 2 — Constructor with default values (`Environment` class with `name`, `port`, `getURL()`) |
+| `EX3.js` | Exercise 3 — `this` keyword refers to the current object (`User` class with `greet()`) |
+| `EX4.js` | Exercise 4 — Method chaining with `this` (`Counter` class with `increment()` and `display()`) |
+
 ## Running Examples
 
 ```bash
