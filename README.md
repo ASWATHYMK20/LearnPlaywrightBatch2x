@@ -329,7 +329,18 @@ A hands-on JavaScript fundamentals course building up to Playwright automation. 
 | `195_TS_Part1.ts` | TypeScript function with `void` return type |
 | `196_TS_Part2.ts` | Primitive types — `string`, `number`, `boolean`, `null`, `undefined`, arrays, `any`, `unknown` |
 | `197_TS_Part2.ts` | Type narrowing, function parameter/return annotations, arrow function types, object type annotations |
+| `198_Part3.ts` | Function type annotations — `void`, `never` return types |
+| `199_IQ.ts` | Interview questions — function return types, boolean checks |
+| `200_IQ.ts` | Interview questions — array filtering with type annotations |
 | `tsconfig.json` | TypeScript compiler configuration — `strict`, `nodenext` module, ESNext target |
+
+### Chapter 27: TypeScript Interface
+| File | Topic |
+|------|-------|
+| `201_IF.ts` | Interface basics — `TestCase` interface with typed properties |
+| `202_IF_Part2.ts` | Interface with optional properties (`?`) |
+| `203_IF_READONLY.ts` | `readonly` modifier in interfaces |
+| `204_IF_READOnly.ts` | `readonly` in interfaces and `ReadonlyArray` |
 
 ## Running Examples
 
