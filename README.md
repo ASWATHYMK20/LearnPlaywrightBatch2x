@@ -320,6 +320,17 @@ A hands-on JavaScript fundamentals course building up to Playwright automation. 
 | `EX3.js` | Exercise 3 — `this` keyword refers to the current object (`User` class with `greet()`) |
 | `EX4.js` | Exercise 4 — Method chaining with `this` (`Counter` class with `increment()` and `display()`) |
 
+### Chapter 26: TypeScript
+| File | Topic |
+|------|-------|
+| `193_TS.js` | JavaScript vs TypeScript comparison — plain JS function without types |
+| `194_TS_HelloWorld.ts` | TypeScript HelloWorld — type annotations (`string`, `number`) |
+| `194_TS_HelloWorld.js` | Compiled JavaScript output from TypeScript |
+| `195_TS_Part1.ts` | TypeScript function with `void` return type |
+| `196_TS_Part2.ts` | Primitive types — `string`, `number`, `boolean`, `null`, `undefined`, arrays, `any`, `unknown` |
+| `197_TS_Part2.ts` | Type narrowing, function parameter/return annotations, arrow function types, object type annotations |
+| `tsconfig.json` | TypeScript compiler configuration — `strict`, `nodenext` module, ESNext target |
+
 ## Running Examples
 
 ```bash
