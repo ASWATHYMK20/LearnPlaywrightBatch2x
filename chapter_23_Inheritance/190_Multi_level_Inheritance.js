@@ -31,3 +31,19 @@ let admin = new AdminPage();
 admin.open();
 admin.login("superadmin");
 admin.manageUsers();
+
+
+//Learning Notes
+// extends:
+// Inherit properties and methods from parent class.
+
+// super():
+// Calls parent constructor.
+
+// Child class gets:
+// 1. Its own methods
+// 2. Parent methods
+// 3. Grandparent methods
+
+// Inheritance chain:
+//AdminPage -> AuthPage -> BasePage

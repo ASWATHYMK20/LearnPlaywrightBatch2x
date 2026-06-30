@@ -118,7 +118,20 @@ A hands-on JavaScript fundamentals course building up to Playwright automation. 
 | `70_prompt_sync.js` | prompt-sync for user input |
 
 ### Chapter 10: Loops
-_Empty_
+| File | Topic |
+|------|-------|
+| `71_For_loop.js` | For loop basics |
+| `72_For_loop.js` | For loop — even numbers |
+| `73_For_Loop2.js` | For loop variations |
+| `74_IQ.js` | Interview questions — for loop |
+| `75_For_OF_IN_EACH.js` | `for...of`, `for...in`, `forEach` |
+| `76_While.js` | While loop basics |
+| `77_Do_While.js` | Do-while loop basics |
+| `78_Do_While.js` | Do-while loop examples |
+| `79_IQ.js` | Interview questions — loops |
+| `80_IQ.js` | Interview questions — loops |
+| `81_IQ.js` | Interview questions — loops |
+| `82_IQ.js` | Interview questions — loops |
 
 ### Chapter 11: Arrays
 | File | Topic |
