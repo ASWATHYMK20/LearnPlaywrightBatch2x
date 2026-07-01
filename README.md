@@ -341,6 +341,11 @@ A hands-on JavaScript fundamentals course building up to Playwright automation. 
 | `202_IF_Part2.ts` | Interface with optional properties (`?`) |
 | `203_IF_READONLY.ts` | `readonly` modifier in interfaces |
 | `204_IF_READOnly.ts` | `readonly` in interfaces and `ReadonlyArray` |
+| `205_Interface.ts` | `Calculator` interface with method signatures (`add`, `substract`, `multiply`) |
+| `206_Hooks.ts` | Function interface (`TestHook`) and object interface (`TestCase`) — test lifecycle hooks |
+| `206_Notes.md` | TypeScript Interfaces learning notes — object vs function interfaces |
+| `207_Bug_Report.ts` | `BugReport` interface with array property (`stepsToReproduce`) |
+| `208_TestConfig.ts` | `TestConfig` interface with optional properties (`timeout?`, `retries?`) — CI vs local config |
 
 ## Running Examples
 
