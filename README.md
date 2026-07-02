@@ -346,6 +346,16 @@ A hands-on JavaScript fundamentals course building up to Playwright automation. 
 | `206_Notes.md` | TypeScript Interfaces learning notes — object vs function interfaces |
 | `207_Bug_Report.ts` | `BugReport` interface with array property (`stepsToReproduce`) |
 | `208_TestConfig.ts` | `TestConfig` interface with optional properties (`timeout?`, `retries?`) — CI vs local config |
+| `209_REAL_EXAMPLE.ts` | Interface extending interfaces — `BasePage`, `LoginPage`, `FreeTrialPage` (page object pattern) |
+| `210_Class_Interface.ts` | Interface with class `implements` — `Executable` interface, `TestCase` class |
+
+### Chapter 28: Enum
+| File | Topic |
+|------|-------|
+| `211_ENUM.ts` | Enum basics — `TestStatus` enum with string values (`PASS`, `FAIL`, `SKIP`, etc.) |
+| `212_Enum_Fn.ts` | Enum use cases — `SeverityLevels` and `Environment` enums |
+| `213_ENUM.ts` | Enum in functions — `Browser` enum with `launchBrowser()` switch example |
+| `214_API.ts` | Enum in API — `HTTPMethod` enum with `sendRequest()` function |
 
 ## Running Examples
 
