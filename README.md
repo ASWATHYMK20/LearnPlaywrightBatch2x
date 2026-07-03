@@ -357,6 +357,19 @@ A hands-on JavaScript fundamentals course building up to Playwright automation. 
 | `213_ENUM.ts` | Enum in functions — `Browser` enum with `launchBrowser()` switch example |
 | `214_API.ts` | Enum in API — `HTTPMethod` enum with `sendRequest()` function |
 
+### Chapter 29: TypeScript Generics
+| File | Topic |
+|------|-------|
+| `215_Generic.ts` | Generic function — `getFirstResult<T>` with type parameter, non-null assertion (`!`) |
+| `216_Generic_Class.ts` | Generic class — `TestDataStorage<T>` with `add()`, `getFirst()`, `getAll()`, `count()` |
+| `217_Generic_API_RESPONSE.ts` | Generic API response wrapper — `wrapResponse<T>()` returning `{ statusCode, data }` |
+
+### Chapter 30: Private, Public, Protected
+| File | Topic |
+|------|-------|
+| `218_PPP.ts` | Access modifiers — `APIClient` class with `public`, `private`, `protected` members |
+| `219_pageObjectModel.ts` | Page Object Model with access modifiers — `BasePage` (`protected`), `LoginPage` extends |
+
 ## Running Examples
 
 ```bash
