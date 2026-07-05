@@ -370,6 +370,7 @@ A hands-on JavaScript fundamentals course building up to Playwright automation. 
 | `218_PPP.ts` | Access modifiers — `APIClient` class with `public`, `private`, `protected` members |
 | `219_pageObjectModel.ts` | Page Object Model with access modifiers — `BasePage` (`protected`), `LoginPage` extends |
 | `220_READONLY.ts` | `readonly` modifier — `PlaywrightConfig` class with readonly properties (`baseURL`, `timeout`, `retries`) |
+| `221_Abstract_Class.ts` | Abstract class — `BaseTest` with abstract methods (`setup`, `execute`, `teardown`, `loan`), `UITest` subclass |
 
 ## Running Examples
 
