@@ -372,6 +372,12 @@ A hands-on JavaScript fundamentals course building up to Playwright automation. 
 | `220_READONLY.ts` | `readonly` modifier — `PlaywrightConfig` class with readonly properties (`baseURL`, `timeout`, `retries`) |
 | `221_Abstract_Class.ts` | Abstract class — `BaseTest` with abstract methods (`setup`, `execute`, `teardown`, `loan`), `UITest` subclass |
 
+### Chapter 31: Type Override / Decorators
+| File | Topic |
+|------|-------|
+| `222_Type_As.ts` | Type assertion with `as` keyword — casting `unknown` to interface type |
+| `223_TYPE_Alias_AS.ts` | Type alias and type assertion — `rawResponse as UserResponse` pattern |
+
 ## Running Examples
 
 ```bash
