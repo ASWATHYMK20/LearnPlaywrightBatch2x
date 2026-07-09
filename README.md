@@ -377,6 +377,7 @@ A hands-on JavaScript fundamentals course building up to Playwright automation. 
 |------|-------|
 | `222_Type_As.ts` | Type assertion with `as` keyword — casting `unknown` to interface type |
 | `223_TYPE_Alias_AS.ts` | Type alias and type assertion — `rawResponse as UserResponse` pattern |
+| `224_Override.ts` | TypeScript `override` keyword — `BaseTest` with `nihit_ready()` overridden in `LoginTest` and `APITest` |
 
 ## Running Examples
 
