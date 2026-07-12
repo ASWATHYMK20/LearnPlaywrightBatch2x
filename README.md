@@ -379,6 +379,17 @@ A hands-on JavaScript fundamentals course building up to Playwright automation. 
 | `223_TYPE_Alias_AS.ts` | Type alias and type assertion — `rawResponse as UserResponse` pattern |
 | `224_Override.ts` | TypeScript `override` keyword — `BaseTest` with `nihit_ready()` overridden in `LoginTest` and `APITest` |
 | `225_IQ.ts` | Override interview question — `Father` class with `home()` method overridden in `Pramod` child class |
+| `226_Decorator.ts` | TypeScript method decorator — `@Log` decorator for logging method calls |
+| `227_Decortors_2.ts` | Method decorator — `@logged` decorator with string return |
+| `228.ts` | Multiple decorators — stacking `@beforeSomething` and `@BeforeSomeSomeThing` on a method |
+| `228_Multiple_Decor.ts` | Multiple decorators example — `@beforeSomething` and `@BeforeSomeSomeThing` on `Dog.bark()` |
+
+### Chapter 32: Playwright Fundamentals
+| File | Topic |
+|------|-------|
+| `playwright.config.ts` | Playwright configuration — projects for Chromium, Firefox, WebKit, HTML reporter |
+| `tests/example.spec.ts` | Playwright test spec — page title verification with `toHaveTitle()` |
+| `package.json` | Playwright project setup with dependencies |
 
 ## Running Examples
 
