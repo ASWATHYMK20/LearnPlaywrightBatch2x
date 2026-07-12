@@ -12,7 +12,7 @@ class Pramod extends Father {
 
 
 let pramod = new Pramod();
-let parent = new Father();
+let parent1 = new Father();
 //pramod.home();
 
-parent.home();
+parent1.home();
